@@ -28,3 +28,17 @@ bash
 Copy code
 npm start
 The app will be available at http://localhost:3000.
+
+
+Usage
+Hover Navigation: Hover over a navigation link (e.g., Products, Developers, Company) to reveal the submenu.
+Submenu Options: The submenu will display additional links and details related to the hovered navigation item.
+Responsive Design: On smaller screens, the menu transforms into a mobile-friendly format, including a hamburger menu.
+Example
+When you open the app, you will see:
+
+A navigation bar at the top with links.
+Hovering over the links will display a dynamic submenu with more details and links related to the selected item.
+Dependencies
+React: Frontend framework
+CSS Modules or Styled Components: For styling and smooth animations
